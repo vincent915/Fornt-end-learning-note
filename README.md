@@ -25,7 +25,7 @@
 
 ## :book:<b>HTML的基礎-</b>  
 ### :paperclip:1. \<html>的基本格式：  
-> \<DOCETYPE html>  
+> \<!DOCETYPE html>  
 > \<html lang="zh-TW">-----/*-網頁宣告-*/  
 > \<meta charset="UTF-8">-----/*-偵測特殊符號-*/  
 > \<meta name="viewport" content="width=device-width, inital-scale=1.0">-----/*-自動偵測裝置範圍-*/  
