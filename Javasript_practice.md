@@ -145,9 +145,7 @@ id屬性定義HTML元素。 innerHTML屬性定義HTML內容。
  x += 5;   
  document.getElementById("demo").innerHTML = x; 
  </script>   
-```
-
-<br>    
-
-> 實際HTML顯示出的結果如下：  
-> x = 15
+ 
+/* 實際HTML顯示出的結果如下：*/  
+ x = 15 
+ ‵``
